@@ -1,0 +1,6 @@
+selenium
+pymongo
+flask
+chromedriver-autoinstaller
+requests
+python-dotenv
